@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShortFilmy</string>
+    <string name="error">Error initializing youtube player</string>
+</resources>
